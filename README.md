@@ -1,4 +1,4 @@
-# citizen-code#
+## citizen-code #
 
 ##Citizen Management System (C Program)##
 
