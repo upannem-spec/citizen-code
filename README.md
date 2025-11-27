@@ -26,9 +26,14 @@ Uses struct for clean data organization
 
 Simple terminal-based interface
 
+
+
 *** Technical Requirements ***(Same Style)
 
+
+
 ###1. System Overview###
+
 
 The Citizen Management System allows a user to:
 
@@ -38,7 +43,10 @@ View all stored citizen records
 
 All data is stored in memory only (RAM) and gets erased when the program closes.
 
+
+
 ##2. Language & Compilation Requirements###
+
 
 Language Standard: C99 or later
 
@@ -47,7 +55,11 @@ Compiler: GCC / Clang
 
 Files: Single .c file
 
+
+
 ##3. In-Memory Data Requirements##
+
+
 
 A fixed-size array stores up to 100 citizen entries
 
@@ -57,7 +69,10 @@ No file handling used
 
 ** ##4. Program Flow Requirements##
 
+
+
 ##4.1 Menu System##
+
 
 The program displays:
 
