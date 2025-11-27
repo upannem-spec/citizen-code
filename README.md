@@ -65,7 +65,9 @@ Add Citizen
 
 View All Citizens
 
-Exit<img width="453" height="182" alt="Screenshot 2025-11-27 143514" src="https://github.com/user-attachments/assets/9dfcb93f-a707-4781-8d4a-424156ba54e3" />
+Exit 
+
+<img width="453" height="182" alt="Screenshot 2025-11-27 143514" src="https://github.com/user-attachments/assets/9dfcb93f-a707-4781-8d4a-424156ba54e3" />
 
 
 Input is handled using scanf.
@@ -84,12 +86,24 @@ Address
 
 Occupation
 
-Data is stored in the next available array position.<img width="352" height="162" alt="Screenshot 2025-11-27 143829" src="https://github.com/user-attachments/assets/77d05706-ae54-4a5f-97dd-e676d22a27a0" />
+Data is stored in the next available array position.
+
+<img width="352" height="162" alt="Screenshot 2025-11-27 143829" src="https://github.com/user-attachments/assets/77d05706-ae54-4a5f-97dd-e676d22a27a0" />
 
 
-##4.3 Viewing Citizen Records##<img width="401" height="168" alt="Screenshot 2025-11-27 143907" src="https://github.com/user-attachments/assets/bea08f91-7773-47d9-b73a-5811ba0138e2" />
+##4.3 Viewing Citizen Records##
+
+<img width="401" height="168" alt="Screenshot 2025-11-27 143907" src="https://github.com/user-attachments/assets/bea08f91-7773-47d9-b73a-5811ba0138e2" />
+
+
 4.4 exit
+
+
+
+
 <img width="281" height="84" alt="Screenshot 2025-11-27 144058" src="https://github.com/user-attachments/assets/23e4ddb2-60d7-424b-8cb1-7d61948961a2" />
+
+
 
 Runtime Requirements
 
