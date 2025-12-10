@@ -1,6 +1,6 @@
 ## citizen-code #
 
-##Citizen Management System (C Program)##
+##Citizen records Management System (C Program)##
 
 A simple menu-driven Citizen Management System written in C.
 This program allows users to store, manage, and view citizen records efficiently using structures and arrays.
