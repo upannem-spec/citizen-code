@@ -7,7 +7,7 @@ This program allows users to store, manage, and view citizen records efficiently
 
 ##Abstract##
 
-The Citizen Management System is a basic C application designed to manage details of citizens such as their ID, name, age, address, and occupation.
+The Citizen records Management System is a basic C application designed to manage details of citizens such as their ID, name, age, address, and occupation.
 It uses structures to organize citizen-related information and stores them inside an in-memory array.
 
 The user can add new citizen records, view all stored records, and maintain the data through a simple text-based menu interface.
